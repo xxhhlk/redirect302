@@ -5,16 +5,5 @@
       "destination": "https://github.com/xxhhlk",
       "statusCode": 302
     }
-  ],
-  "headers": [
-    {
-      "source": "/index.html",
-      "headers": [
-        {
-          "key": "Cache-Control",
-          "value": "no-store, must-revalidate"
-        }
-      ]
-    }
   ]
 }
